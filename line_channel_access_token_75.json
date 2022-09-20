@@ -1,9 +1,0 @@
-{
-    "url" : "https://api.line.me/v2/bot/followers/ids?limit=1000&",
-    "payload" : {},
-    "headers" : {
-      "Authorization": "Bearer A0Viau8JsR2uusuxfDcAwCIKaVjGwG9iSwuuCLjjMrkJDCq/gqR3FKKwIN0SS9gZQuOyheA/wqz8f+YFkWzPPn198mOJjBhU6ToDC2WaX2IMz91rUXn38vppGb4QzgMR4IKJfXQhxKMubTvnBtIMelGUYhWQfeY8sLGRXgo3xvw="
-    }
-}
-
-
