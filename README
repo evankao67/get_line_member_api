@@ -1,0 +1,7 @@
+執行get_line_member.py前，要去line developer->message api->Channel access token裡面，複製Channel access token，在替換line_channel_access_token_75.json
+裡面的“Authorization”參數。
+
+line api 基本限制
+1. 一次最多get 1000筆資料，有提供換頁token
+2. 一小時可以call 60次
+3. line api 回傳的是，有加入line official且沒有封鎖&刪好友的名單，因此，這裡回傳的人數，會跟line 介面看的人數少一些
